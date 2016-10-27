@@ -1,1 +1,2 @@
 repositories are useful to keep your files and code safe and to maintain required logs and versions also this should be remote, at least that's what i'm expecting this.
+adding a new line of text in lesson two too.
