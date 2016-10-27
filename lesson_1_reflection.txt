@@ -1,0 +1,3 @@
+When i create a file and save it, i will come back to the file again to make some changes to the file. 
+Be it a program that i wrore or a code of line.
+And when i come and change it, i might miss some changes that i should be doing at other places too and all of sudden my program start giving me error. and looking at the differences giving me enough info about what did i change and what else i need to change king of info. so it's a great tool that i can think of. Thanks for the diff command in the linux and mac.
