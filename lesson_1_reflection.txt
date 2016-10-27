@@ -1,3 +1,11 @@
 When i create a file and save it, i will come back to the file again to make some changes to the file. 
 Be it a program that i wrore or a code of line.
 And when i come and change it, i might miss some changes that i should be doing at other places too and all of sudden my program start giving me error. and looking at the differences giving me enough info about what did i change and what else i need to change king of info. so it's a great tool that i can think of. Thanks for the diff command in the linux and mac.
+
+Well having entire history of the file makes me feel comfortable, i can go back and see if any one did any changes to my files or not.
+
+Pros : you can choose or limit the number of versions that you want to keep.
+cons : sometimes you will forget about commiting and may lost some of your valueble code.
+
+because sometimes the files may be interrelated to each other in such cases you can't just change one file and leave the other one, but you have to commit both even if you don't change anything. 
+just a line of text to see the difference.
