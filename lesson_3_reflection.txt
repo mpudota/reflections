@@ -1,1 +1,3 @@
 having different branches help us keeping our working code in master branch and making experimental changes to test branches. it is very useful mechanism.
+
+so far so good, diagrams helps a bit better in understanding what's in the lesson and make it easy when we look back at it by just making easy points. thanks to them.
