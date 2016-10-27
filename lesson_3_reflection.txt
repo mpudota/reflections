@@ -1,0 +1,1 @@
+having different branches help us keeping our working code in master branch and making experimental changes to test branches. it is very useful mechanism.
